@@ -13,7 +13,7 @@ const Footer = () => {
             <Link href="http://mitchellshelton.info" target="_blank">
                 <Icon src={WebsiteIcon} alt="Personal Website"></Icon>
             </Link>
-            <Link href="https://google.com" target="_blank">
+            <Link href="https://github.com/armoured/mini-dictionary" target="_blank">
                 <Icon src={GithubIcon} alt="Github"></Icon>
             </Link>
           </LogosWrapper>
