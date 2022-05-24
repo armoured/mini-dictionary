@@ -24,8 +24,10 @@ Launches the test runner
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 
 ### Deployment
 
-This app will be temporarily deployed to S3 - I will update the link here soon.
+This app will be temporarily deployed to S3.
+
+Here is the link: http://mini-dictionary.s3-website-ap-southeast-2.amazonaws.com/
